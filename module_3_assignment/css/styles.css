@@ -1,0 +1,50 @@
+h1 {
+	float: left;
+}
+
+#header-nav {
+	background-color: darkgrey;
+	border-radius: 0;
+	border: 0px;
+	text-align: center;
+}
+
+
+.content {
+	margin-top: 0px;
+	align-content: center;
+	padding-top: 5px;
+	background-color: grey;
+	border: 2px solid black;
+	margin-left: 20px;
+	padding: 8px;
+	width: 98%;
+	height: 20%;
+
+}
+
+.text {
+	  float: left;
+  height: 50px;
+	width:100%;
+  padding: 15px 15px;
+	margin-left: 20px;
+  font-size: 24px;
+  line-height: 20px;
+	color: black;
+
+}
+
+h4 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+
+
+.bottom {
+	margin-bottom: 5%;
+}
